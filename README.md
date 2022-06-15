@@ -3,7 +3,7 @@ Super resolution is to reconstruct a high resolutoin image from low resolutoin i
 ## SRCNN
 In this notebook we untilize [SRCNN](https://arxiv.org/abs/1501.00092) proposed by Dong *et al*. </br>
 from left to right: original image, SRCNN image, bicubic interpolation image
-![SRCNN image](https://github.com/susuhu/super-resolution/blob/main/result_images/peperoni_srcnn.png)
+![SRCNN image](https://github.com/susuhu/super-resolution/blob/main/result_images/srcnn_peperoni.png)
 
 ## SRGAN
 
